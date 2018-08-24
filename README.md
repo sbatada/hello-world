@@ -1,6 +1,4 @@
-# hello-world
-
-Salima Python Project
+Salima Python Project - Gun Deaths in US Data Analysis
 
 
 In this project, I have analyzed data on gun deaths in the US between 2012-2014. 
